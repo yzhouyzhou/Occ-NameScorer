@@ -1,4 +1,4 @@
-# occnamescorer
+# Occ-NameScorer
 
 ## Name Scorer Project Overview
 *   This project is to calculate the scores from the list of names. The input is a file with first names and the output is a total score calculated form the names. The project is a maven project created on eclipse. pom.xml contains all the configuration details, dependenses, and build goals. The application is able to run on both eclipse and command line.
@@ -80,7 +80,7 @@ obtain a score of 40 x 4 = 160.
 
 *   Output from command line is showed as following:
 
-    *   mvnbuild.sh is a shell scripts, which is able to make a maven clean build, and copy the jar file to the proper place.  Build log is written to the file [build.output.txt](https://github.com/yzhouyzhou/Occ-NameScorer/blob/main/build.output.txt). 
+    *   mvnbuild.sh is a shell scripts, which is able to make a maven clean build, and copy the jar file to the proper place.  Build log is written to the file [build.output.txt](https://github.com/yzhouyzhou/Occ-NameScorer/blob/master/build.output.txt). 
 
         ![node-image5](images/node5.JPG)
 
